@@ -4,6 +4,8 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
+- [**best-of-ml-julia**](https://github.com/e-tony/best-of-ml-julia): A ranked list of awesome machine learning Julia libraries.
 
 ## Contribution
 
