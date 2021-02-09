@@ -3,9 +3,15 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "ml-frameworks"
+    title: "Machine Learning Frameworks"
+    subtitle: "General-purpose machine learning and deep learning frameworks."
+  - category: "nlp"
+    title: "Text Data & NLP"
+    subtitle: "Libraries for processing, cleaning, manipulating, and analyzing text data as well as for diverse NLP tasks."
+  - category: "image"
+    title: "Image Data"
+    subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision."
 
 labels:
   # - label: "python"
@@ -13,7 +19,165 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: rust-bert
+    github_id: guillaume-be/rust-bert
+    category: "nlp"
+  - name: whatlang-rs
+    github_id: greyblake/whatlang-rs
+    category: "nlp"
+  - name: snips-nlu-rs
+    github_id: snipsco/snips-nlu-rs
+    category: "nlp"
+  - name: rs-natural
+    github_id: christophertrml/rs-natural
+    category: "nlp"
+  - name: rust-tokenizers
+    github_id: guillaume-be/rust-tokenizers
+    category: "nlp"
+  - name: vtext
+    github_id: rth/vtext
+    category: "nlp"
+  - name: tokenizers
+    github_id: huggingface/tokenizers
+    category: "nlp"
+  - name: deepfrog
+    github_id: proycon/deepfrog
+    category: "nlp"
+  - name: rustlearn
+    github_id: maciejkula/rustlearn
+    category: "ml-frameworks"
+  - name: rust
+    github_id: tensorflow/rust
+    category: "ml-frameworks"
+  - name: linfa
+    github_id: rust-ml/linfa/
+    category: "ml-frameworks"
+  - name: smartcore
+    github_id: smartcorelib/smartcore
+    category: "ml-frameworks"
+  - name: tflite-rs
+    github_id: boncheolgu/tflite-rs
+    category: "ml-frameworks"
+  - name: rusty-machine
+    github_id: AtheMathmo/rusty-machine
+    category: "ml-frameworks"
+  - name: cogent
+    github_id: JonathanWoollett-Light/cogent
+    category: "ml-frameworks"
+  - name: rust-autograd
+    github_id: raskr/rust-autograd
+    category: "ml-frameworks"
+  - name: juice
+    github_id: spearow/juice
+    category: "ml-frameworks"
+  - name: autograph
+    github_id: charles-r-earp/autograph
+    category: "ml-frameworks"
+  - name: alumina
+    github_id: millardjn/alumina
+    category: "ml-frameworks"
+  - name: RustNN
+    github_id: jackm321/RustNN
+    category: "ml-frameworks"
+  - name: prophet
+    github_id: robbepop/prophet
+    category: "ml-frameworks"
+  - name: rustml
+    github_id: daniel-e/rustml
+    category: "ml-frameworks"
+  - name: leaf
+    github_id: autumnai/leaf
+    category: "ml-frameworks"
+  - name: fann-rs
+    github_id: afck/fann-rs
+    category: "ml-frameworks"
+  - name: cntk-rs
+    github_id: usamec/cntk-rs
+    category: "ml-frameworks"
+  - name: tvm
+    github_id: apache/tvm
+    category: "ml-frameworks"
+  - name: NeuroFlow
+    github_id: MikhailKravets/NeuroFlow
+    category: "ml-frameworks"
+  - name: revonet
+    github_id: yurytsoy/revonet
+    category: "ml-frameworks"
+  - name: hal
+    github_id: jramapuram/hal
+    category: "ml-frameworks"
+  - name: drug
+    github_id: CasperN/drug
+    category: "ml-frameworks"
+  - name: fwumious_wabbit
+    github_id: outbrain/fwumious_wabbit
+    category: "ml-frameworks"
+  - name: deeplearn-rs
+    github_id: tedsta/deeplearn-rs
+    category: "ml-frameworks"
+  - name: torchrs
+    github_id: torchrs/torchrs
+    category: "ml-frameworks"
+  - name: xaynet
+    github_id: xaynetwork/xaynet/
+    category: "ml-frameworks"
+  - name: tract
+    github_id: sonos/tract
+    category: "ml-frameworks"
+  - name: orkhon
+    github_id: vertexclique/orkhon
+    category: "ml-frameworks"
+  - name: rsrl
+    github_id: tspooner/rsrl
+    category: "ml-frameworks"
+  - name: Peroxide
+    github_id: Axect/Peroxide
+    category: "ml-frameworks"
+  - name: blingfire-rs
+    github_id: reinfer/blingfire-rs
+    category: "nlp"
+  - name: tch-rs
+    github_id: LaurentMazare/tch-rs
+    category: "ml-frameworks"
+  - name: rusoto
+    github_id: usoto/rusoto
+    category: "ml-frameworks"
+  - name: lingua-rs
+    github_id: pemistahl/lingua-rs
+    category: "nlp"
+  - name: batched-fn
+    github_id: epwalsh/batched-fn
+    category: "ml-frameworks"
+  - name: kodama
+    github_id: diffeo/kodama
+    category: "ml-frameworks"
+  - name: L2
+    github_id: bkkaggle/l2
+    category: "ml-frameworks"
+  - name: misspeller
+    github_id: andrew-johnson-4/misspeller
+    category: "nlp"
+  - name: word2vec
+    github_id: dimakudosh/word2vec
+    category: "nlp"
+  - name: cv
+    github_id: rust-cv/cv
+    category: "image"
+  - name: opencv-rust
+    github_id: twistedfall/opencv-rust
+    category: "image"
+  - name: visual-odometry-rs
+    github_id: mpizenberg/visual-odometry-rs
+    category: "image"
+  - name: visionmagic
+    github_id: visioncortex/visionmagic/
+    category: "image"
+  - name: texture-synthesis
+    github_id: EmbarkStudios/texture-synthesis
+    category: "image"
+  - name: rustface
+    github_id: atomashpolskiy/rustface
+    category: "image"
+  - name: image-ssd
+    github_id: mermoldy/image-ssd
+    category: "image"
