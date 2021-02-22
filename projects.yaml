@@ -181,3 +181,6 @@ projects:
   - name: image-ssd
     github_id: mermoldy/image-ssd
     category: "image"
+  - name: ballista
+    github_id: ballista-compute/ballista
+    category: "ml-frameworks"
