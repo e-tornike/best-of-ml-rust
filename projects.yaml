@@ -184,3 +184,6 @@ projects:
   - name: ballista
     github_id: ballista-compute/ballista
     category: "ml-frameworks"
+  - name: aleph-alpha-tokenizer
+    github_id: Aleph-Alpha/aleph-alpha-tokenizer
+    category: "nlp"
