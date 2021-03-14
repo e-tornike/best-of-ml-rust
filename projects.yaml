@@ -12,6 +12,9 @@ categories:
   - category: "image"
     title: "Image Data"
     subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision."
+  - category: "data-loading"
+    title: "Data Loading & Extraction"
+    subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
 
 labels:
   # - label: "python"
@@ -187,3 +190,6 @@ projects:
   - name: aleph-alpha-tokenizer
     github_id: Aleph-Alpha/aleph-alpha-tokenizer
     category: "nlp"
+  - name: polars
+    github_id: ritchie46/polars
+    category: "data-loading"
