@@ -193,3 +193,6 @@ projects:
   - name: polars
     github_id: ritchie46/polars
     category: "data-loading"
+  - name: nnsplit
+    github_id: bminixhofer/nnsplit
+    category: "nlp"
