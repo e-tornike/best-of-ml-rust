@@ -196,3 +196,6 @@ projects:
   - name: nnsplit
     github_id: bminixhofer/nnsplit
     category: "nlp"
+  - name: nlprule
+    github_id: bminixhofer/nlprule
+    category: "nlp"
