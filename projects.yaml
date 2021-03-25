@@ -199,3 +199,42 @@ projects:
   - name: nlprule
     github_id: bminixhofer/nlprule
     category: "nlp"
+  - name: crfsuite-rs
+    github_id: messense/crfsuite-rs
+    category: "ml-frameworks"
+  - name: vtext
+    github_id: rth/vtext
+    category: "nlp"
+  - name: finalfrontier
+    github_id: finalfusion/finalfrontier
+    category: "nlp"
+  - name: lumberjack
+    github_id: sebpuetz/lumberjack
+    category: "nlp"
+  - name: syntaxdot
+    github_id: tensordot/syntaxdot
+    category: "nlp"
+  - name: finalfusion-rust
+    github_id: finalfusion/finalfusion-rust
+    category: "nlp"
+  - name: reductive
+    github_id: finalfusion/reductive
+    category: "ml-frameworks"
+  - name: dpar
+    github_id: danieldk/dpar
+    category: "nlp"
+  - name: sentencepiece
+    github_id: danieldk/sentencepiece
+    category: "nlp"
+  - name: alpino-tokenizer
+    github_id: danieldk/alpino-tokenizer
+    category: "nlp"
+  - name: seqalign
+    github_id: danieldk/seqalign
+    category: "nlp"
+  - name: ohnomore
+    github_id: danieldk/ohnomore
+    category: "nlp"
+  - name: wordpieces
+    github_id: danieldk/wordpieces
+    category: "nlp"
