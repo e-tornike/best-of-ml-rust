@@ -238,3 +238,33 @@ projects:
   - name: wordpieces
     github_id: danieldk/wordpieces
     category: "nlp"
+  - name: Peroxide
+    github_id: Axect/Peroxide
+    category: "data-loading"
+  - name: rust-dataframe
+    github_id: nevi-me/rust-dataframe
+    category: "data-loading"
+  - name: aho-corasick
+    github_id: BurntSushi/aho-corasick
+    category: "nlp"
+  - name: vector
+    github_id: timberio/vector
+    category: "data-loading"
+  - name: rayon
+    github_id: rayon-rs/rayon
+    category: "data-loading"
+  - name: weld
+    github_id: weld-project/weld
+    category: "ml-frameworks"
+  - name: Enzyme
+    github_id: wsmoses/Enzyme
+    category: "ml-frameworks"
+  - name: cleora
+    github_id: Synerise/cleora
+    category: "ml-frameworks"
+  - name: RusticSOM
+    github_id: avinashshenoy97/RusticSOM
+    category: "ml-frameworks"
+  - name: lindera
+    github_id: lindera-morphology/lindera
+    category: "nlp"
