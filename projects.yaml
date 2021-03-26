@@ -286,3 +286,9 @@ projects:
   - name: sticker
     github_id: stickeritis/sticker
     category: "nlp"
+  - name: rustberta-snli
+    github_id: allenai/rustberta-snli
+    category: "nlp"
+  - name: rust-dl-webserver
+    github_id: epwalsh/rust-dl-webserver
+    category: "ml-frameworks"
