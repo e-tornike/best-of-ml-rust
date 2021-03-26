@@ -268,3 +268,21 @@ projects:
   - name: lindera
     github_id: lindera-morphology/lindera
     category: "nlp"
+  - name: autograph
+    github_id: charles-r-earp/autograph
+    category: "ml-frameworks"
+  - name: rust-sbert
+    github_id: cpcdoy/rust-sbert
+    category: "nlp"
+  - name: rust-tfrecord
+    github_id: jerry73204/rust-tfrecord
+    category: "data-loading"
+  - name: tch-serde
+    github_id: jerry73204/tch-serde
+    category: "data-loading"
+  - name: rust-cv-convert
+    github_id: jerry73204/rust-cv-convert
+    category: "image"
+  - name: sticker
+    github_id: stickeritis/sticker
+    category: "nlp"
