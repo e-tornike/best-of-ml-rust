@@ -53,7 +53,7 @@ projects:
     github_id: tensorflow/rust
     category: "ml-frameworks"
   - name: linfa
-    github_id: rust-ml/linfa/
+    github_id: rust-ml/linfa
     category: "ml-frameworks"
   - name: smartcore
     github_id: smartcorelib/smartcore
@@ -122,7 +122,7 @@ projects:
     github_id: torchrs/torchrs
     category: "ml-frameworks"
   - name: xaynet
-    github_id: xaynetwork/xaynet/
+    github_id: xaynetwork/xaynet
     category: "ml-frameworks"
   - name: tract
     github_id: sonos/tract
@@ -173,7 +173,7 @@ projects:
     github_id: mpizenberg/visual-odometry-rs
     category: "image"
   - name: visionmagic
-    github_id: visioncortex/visionmagic/
+    github_id: visioncortex/visionmagic
     category: "image"
   - name: texture-synthesis
     github_id: EmbarkStudios/texture-synthesis
