@@ -17,9 +17,9 @@ categories:
     subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "binding"
+    image: "🎁"
+    description: "A binding for another project."
 
 projects:
   - name: rust-bert
@@ -52,6 +52,7 @@ projects:
   - name: rust
     github_id: tensorflow/rust
     category: "ml-frameworks"
+    labels: ["binding"]
   - name: linfa
     github_id: rust-ml/linfa
     category: "ml-frameworks"
@@ -100,6 +101,7 @@ projects:
   - name: tvm
     github_id: apache/tvm
     category: "ml-frameworks"
+    labels: ["binding"]
   - name: NeuroFlow
     github_id: MikhailKravets/NeuroFlow
     category: "ml-frameworks"
@@ -121,6 +123,7 @@ projects:
   - name: torchrs
     github_id: torchrs/torchrs
     category: "ml-frameworks"
+    labels: ["binding"]
   - name: xaynet
     github_id: xaynetwork/xaynet
     category: "ml-frameworks"
@@ -142,6 +145,7 @@ projects:
   - name: tch-rs
     github_id: LaurentMazare/tch-rs
     category: "ml-frameworks"
+    labels: ["binding"]
   - name: rusoto
     github_id: rusoto/rusoto
     category: "ml-frameworks"
@@ -169,6 +173,7 @@ projects:
   - name: opencv-rust
     github_id: twistedfall/opencv-rust
     category: "image"
+    labels: ["binding"]
   - name: visual-odometry-rs
     github_id: mpizenberg/visual-odometry-rs
     category: "image"
@@ -292,45 +297,3 @@ projects:
   - name: rust-dl-webserver
     github_id: epwalsh/rust-dl-webserver
     category: "ml-frameworks"
-  - name: rustling-ontology
-    github_id: snipsco/rustling-ontology
-    category: "nlp"
-  - name: snips-nlu-ontology
-    github_id: snipsco/snips-nlu-ontology
-    category: "nlp"
-  - name: snips-nlu-parsers
-    github_id: snipsco/snips-nlu-parsers
-    category: "nlp"
-  - name: gazetteer-entity-parser
-    github_id: snipsco/gazetteer-entity-parser
-    category: "nlp"
-  - name: rustling
-    github_id: snipsco/rustling
-    category: "nlp"
-  - name: spm_precompiled
-    github_id: huggingface/spm_precompiled
-    category: "nlp"
-  - name: azure-sdk-for-rust
-    github_id: Azure/azure-sdk-for-rust
-    category: "ml-frameworks"
-  - name: grex
-    github_id: pemistahl/grex
-    category: "nlp"
-  - name: chr
-    github_id: pemistahl/chr
-    category: "nlp"
-  - name: lindera
-    github_id: lindera-morphology/lindera
-    category: "nlp"
-  - name: tractjs
-    github_id: bminixhofer/tractjs
-    category: "ml-frameworks"
-  - name: fancy-regex
-    github_id: fancy-regex/fancy-regex
-    category: "nlp"
-  - name: rust-numpy
-    github_id: PyO3/rust-numpy
-    category: "ml-frameworks"
-  - name: srx
-    github_id: bminixhofer/srx
-    category: "nlp"
