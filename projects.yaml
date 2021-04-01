@@ -334,9 +334,3 @@ projects:
   - name: srx
     github_id: bminixhofer/srx
     category: "nlp"
-  - name: 
-    github_id: 
-    category: "nlp"
-  - name: 
-    github_id: 
-    category: "nlp"
