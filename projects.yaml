@@ -292,3 +292,51 @@ projects:
   - name: rust-dl-webserver
     github_id: epwalsh/rust-dl-webserver
     category: "ml-frameworks"
+  - name: rustling-ontology
+    github_id: snipsco/rustling-ontology
+    category: "nlp"
+  - name: snips-nlu-ontology
+    github_id: snipsco/snips-nlu-ontology
+    category: "nlp"
+  - name: snips-nlu-parsers
+    github_id: snipsco/snips-nlu-parsers
+    category: "nlp"
+  - name: gazetteer-entity-parser
+    github_id: snipsco/gazetteer-entity-parser
+    category: "nlp"
+  - name: rustling
+    github_id: snipsco/rustling
+    category: "nlp"
+  - name: spm_precompiled
+    github_id: huggingface/spm_precompiled
+    category: "nlp"
+  - name: azure-sdk-for-rust
+    github_id: Azure/azure-sdk-for-rust
+    category: "ml-frameworks"
+  - name: grex
+    github_id: pemistahl/grex
+    category: "nlp"
+  - name: chr
+    github_id: pemistahl/chr
+    category: "nlp"
+  - name: lindera
+    github_id: lindera-morphology/lindera
+    category: "nlp"
+  - name: tractjs
+    github_id: bminixhofer/tractjs
+    category: "ml-frameworks"
+  - name: fancy-regex
+    github_id: fancy-regex/fancy-regex
+    category: "nlp"
+  - name: rust-numpy
+    github_id: PyO3/rust-numpy
+    category: "ml-frameworks"
+  - name: srx
+    github_id: bminixhofer/srx
+    category: "nlp"
+  - name: 
+    github_id: 
+    category: "nlp"
+  - name: 
+    github_id: 
+    category: "nlp"
