@@ -207,9 +207,6 @@ projects:
   - name: crfsuite-rs
     github_id: messense/crfsuite-rs
     category: "ml-frameworks"
-  - name: vtext
-    github_id: rth/vtext
-    category: "nlp"
   - name: finalfrontier
     github_id: finalfusion/finalfrontier
     category: "nlp"
@@ -243,9 +240,6 @@ projects:
   - name: wordpieces
     github_id: danieldk/wordpieces
     category: "nlp"
-  - name: Peroxide
-    github_id: Axect/Peroxide
-    category: "data-loading"
   - name: rust-dataframe
     github_id: nevi-me/rust-dataframe
     category: "data-loading"
@@ -322,9 +316,6 @@ projects:
     category: "nlp"
   - name: chr
     github_id: pemistahl/chr
-    category: "nlp"
-  - name: lindera
-    github_id: lindera-morphology/lindera
     category: "nlp"
   - name: tractjs
     github_id: bminixhofer/tractjs
