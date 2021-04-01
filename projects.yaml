@@ -159,7 +159,7 @@ projects:
     github_id: diffeo/kodama
     category: "ml-frameworks"
   - name: L2
-    github_id: bkkaggle/l2
+    github_id: bilal2vec/L2
     category: "ml-frameworks"
   - name: misspeller
     github_id: andrew-johnson-4/misspeller
