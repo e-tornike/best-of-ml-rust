@@ -143,7 +143,7 @@ projects:
     github_id: LaurentMazare/tch-rs
     category: "ml-frameworks"
   - name: rusoto
-    github_id: usoto/rusoto
+    github_id: rusoto/rusoto
     category: "ml-frameworks"
   - name: lingua-rs
     github_id: pemistahl/lingua-rs
