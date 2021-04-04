@@ -329,3 +329,6 @@ projects:
   - name: srx
     github_id: bminixhofer/srx
     category: "nlp"
+  - name: texture-synthesis
+    github_id: EmbarkStudios/texture-synthesis
+    category: "image"
