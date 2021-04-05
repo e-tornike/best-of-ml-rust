@@ -15,6 +15,9 @@ categories:
   - category: "data-loading"
     title: "Data Loading & Extraction"
     subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
+  - category: "graph"
+    title: "Graph Data"
+    subtitle: "Libraries for graph processing, clustering, embedding, and machine learning tasks."
 
 labels:
   - label: "binding"
@@ -332,3 +335,105 @@ projects:
   - name: texture-synthesis
     github_id: EmbarkStudios/texture-synthesis
     category: "image"
+  - name: rust-tfidf
+    github_id: ferristseng/rust-tfidf
+    category: "nlp"
+  - name: word2vec-rs
+    github_id: mklf/word2vec-rs
+    category: "nlp"
+  - name: fasttext-rs
+    github_id: messense/fasttext-rs
+    category: "nlp"
+    labels: ["binding"]
+  - name: kdtree-rs
+    github_id: mrhooray/kdtree-rs
+    category: "ml-frameworks"
+  - name: vpsearch
+    github_id: kornelski/vpsearch
+    category: "ml-frameworks"
+  - name: hwt
+    github_id: rust-cv/hwt
+    category: "ml-frameworks"
+  - name: granne
+    github_id: granne/granne
+    category: "ml-frameworks"
+  - name: ngt-rs
+    github_id: lerouxrgd/ngt-rs
+    category: "ml-frameworks"
+    labels: ["binding"]
+  - name: hnsw
+    github_id: rust-cv/hnsw
+    category: "ml-frameworks"
+  - name: faiss-rs
+    github_id: Enet4/faiss-rs
+    category: "ml-frameworks"
+    labels: ["binding"]
+  - name: rurel
+    github_id: milanboers/rurel
+    category: "ml-frameworks"
+  - name: gym-rs
+    github_id: mrrobb/gym-rs
+    category: "ml-frameworks"
+    labels: ["binding"]
+  - name: ffsvm-rust
+    github_id: ralfbiedert/ffsvm-rust
+    category: "ml-frameworks"
+  - name: bayespam
+    github_id: zenoxygen/bayespam
+    category: "ml-frameworks"
+  - name: crfsuite-rs
+    github_id: messense/crfsuite-rs
+    category: "ml-frameworks"
+    labels: ["binding"]
+  - name: liblinear-rs
+    github_id: shademe/liblinear-rs
+    category: "ml-frameworks"
+    labels: ["binding"]
+  - name: statrs
+    github_id: boxtown/statrs
+    category: "ml-frameworks"
+  - name: petgraph
+    github_id: petgraph/petgraph
+    category: "graph"
+  - name: graph-rs
+    github_id: sreeise/graph-rs
+    category: "graph"
+  - name: gamma
+    github_id: metamolecular/gamma
+    category: "ml-frameworks"
+  - name: graphlib
+    github_id: purpleprotocol/graphlib
+    category: "graph"
+  - name: rust-stemmers
+    github_id: CurrySoftware/rust-stemmers
+    category: "nlp"
+  - name: rust-stop-words
+    github_id: cmccomb/rust-stop-words
+    category: "nlp"
+  - name: awabi
+    github_id: nakagami/awabi
+    category: "nlp"
+  - name: imageproc
+    github_id: image-rs/imageproc
+    category: "image"
+  - name: cgmath
+    github_id: rustgd/cgmath
+    category: "image"
+  - name: black-jack
+    github_id: milesgranger/black-jack
+    category: "ml-frameworks"
+  - name: nalgebra
+    github_id: dimforge/nalgebra
+    category: "ml-frameworks"
+  - name: sprs
+    github_id: vbarrielle/sprs
+    category: "ml-frameworks"
+  - name: rstats
+    github_id: liborty/rstats
+    category: "ml-frameworks"
+  - name: rustdef
+    github_id: emakryo/rustdef
+    category: "ml-frameworks"
+  - name: evcxr
+    github_id: google/evcxr
+    category: "ml-frameworks"
