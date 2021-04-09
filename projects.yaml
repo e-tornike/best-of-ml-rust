@@ -437,3 +437,6 @@ projects:
   - name: evcxr
     github_id: google/evcxr
     category: "ml-frameworks"
+  - name: mushin
+    github_id: c0dearm/mushin
+    category: "ml-frameworks"
