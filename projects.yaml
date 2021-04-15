@@ -18,6 +18,12 @@ categories:
   - category: "graph"
     title: "Graph Data"
     subtitle: "Libraries for graph processing, clustering, embedding, and machine learning tasks."
+  - category: "interpret"
+    title: "Model Interpretability"
+    subtitle: "Libraries to visualize, explain, debug, evaluate, and interpret machine learning models."
+  - category: "mlops"
+    title: "MLOps"
+    subtitle: "Libraries to design workflows, deploy, test, and maintain machine learning pipelines."
 
 labels:
   - label: "binding"
@@ -440,3 +446,12 @@ projects:
   - name: mushin
     github_id: c0dearm/mushin
     category: "ml-frameworks"
+  - name: eval-metrics
+    github_id: benjarison/eval-metrics
+    category: "interpret"
+  - name: NewsAggregator
+    github_id: EngineersBox/NewsAggregator
+    category: "data-loading"
+  - name: h2o-kubernetes
+    github_id: h2oai/h2o-kubernetes
+    category: "mlops"
