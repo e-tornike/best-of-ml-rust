@@ -455,3 +455,9 @@ projects:
   - name: h2o-kubernetes
     github_id: h2oai/h2o-kubernetes
     category: "mlops"
+  - name: rustfst
+    github_id: Garvys/rustfst
+    category: "nlp"
+  - name: fst
+    github_id: BurntSushi/fst
+    category: "data-loading"
