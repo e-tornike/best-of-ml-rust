@@ -461,3 +461,6 @@ projects:
   - name: fst
     github_id: BurntSushi/fst
     category: "data-loading"
+  - name: arrow
+    github_id: apache/arrow
+    category: "data-loading"
