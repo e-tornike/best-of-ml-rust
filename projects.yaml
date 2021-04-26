@@ -464,3 +464,6 @@ projects:
   - name: arrow
     github_id: apache/arrow
     category: "data-loading"
+  - name: levenshtein-automata
+    github_id: tantivy-search/levenshtein-automata
+    category: "nlp"
