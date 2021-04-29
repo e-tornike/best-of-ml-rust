@@ -467,3 +467,6 @@ projects:
   - name: levenshtein-automata
     github_id: tantivy-search/levenshtein-automata
     category: "nlp"
+  - name: GraphScope
+    github_id: alibaba/GraphScope
+    category: "graph"
