@@ -470,3 +470,12 @@ projects:
   - name: GraphScope
     github_id: alibaba/GraphScope
     category: "graph"
+  - name: gap_statistic
+    github_id: milesgranger/gap_statistic
+    category: "ml-frameworks"
+  - name: pyrus-cramjam
+    github_id: milesgranger/pyrus-cramjam
+    category: "ml-frameworks"
+  - name: black-jack
+    github_id: milesgranger/black-jack
+    category: "data-loading"
