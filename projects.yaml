@@ -479,3 +479,6 @@ projects:
   - name: black-jack
     github_id: milesgranger/black-jack
     category: "data-loading"
+  - name: argmin
+    github_id: argmin-rs/argmin
+    category: "ml-frameworks"
