@@ -482,3 +482,12 @@ projects:
   - name: argmin
     github_id: argmin-rs/argmin
     category: "ml-frameworks"
+  - name: aho-corasick
+    github_id: BurntSushi/aho-corasick
+    category: "nlp"
+  - name: memchr
+    github_id: BurntSushi/memchr
+    category: "nlp"
+  - name: rust-csv
+    github_id: BurntSushi/rust-csv
+    category: "data-loading"
