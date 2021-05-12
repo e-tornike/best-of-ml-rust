@@ -491,3 +491,6 @@ projects:
   - name: rust-csv
     github_id: BurntSushi/rust-csv
     category: "data-loading"
+  - name: synth
+    github_id: openquery-io/synth
+    category: "data-loading"
