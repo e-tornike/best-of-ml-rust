@@ -494,3 +494,6 @@ projects:
   - name: synth
     github_id: openquery-io/synth
     category: "data-loading"
+  - name: tokenizations
+    github_id: explosion/tokenizations
+    category: "nlp"
