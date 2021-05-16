@@ -497,3 +497,6 @@ projects:
   - name: tokenizations
     github_id: explosion/tokenizations
     category: "nlp"
+  - name: datafrog
+    github_id: rust-lang/datafrog
+    category: "data-loading"
