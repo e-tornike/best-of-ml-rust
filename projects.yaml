@@ -500,3 +500,6 @@ projects:
   - name: datafrog
     github_id: rust-lang/datafrog
     category: "data-loading"
+  - name: instant-distance
+    github_id: InstantDomain/instant-distance
+    category: "ml-frameworks"
