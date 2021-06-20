@@ -503,3 +503,30 @@ projects:
   - name: instant-distance
     github_id: InstantDomain/instant-distance
     category: "ml-frameworks"
+  - name: neuronika
+    github_id: neuronika/neuronika
+    category: "ml-frameworks"
+  - name: datafuse
+    github_id: datafuselabs/datafuse
+    category: "data-loading"
+  - name: rain
+    github_id: substantic/rain
+    category: "ml-frameworks"
+  - name: arrow-datafusion
+    github_id: apache/arrow-datafusion
+    category: "data-loading"
+  - name: treebender
+    github_id: vgel/treebender
+    category: "nlp"
+  - name: REnforce
+    github_id: NivenT/REnforce
+    category: "ml-frameworks"
+  - name: craftml-rs
+    github_id: tomtung/craftml-rs
+    category: "ml-frameworks"
+  - name: petal-clustering
+    github_id: petabi/petal-clustering
+    category: "ml-frameworks"
+  - name: bhtsne
+    github_id: frjnn/bhtsne
+    category: "ml-frameworks"
