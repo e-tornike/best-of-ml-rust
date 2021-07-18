@@ -530,3 +530,6 @@ projects:
   - name: bhtsne
     github_id: frjnn/bhtsne
     category: "ml-frameworks"
+  - name: deduplicate-text-datasets
+    github_id: google-research/deduplicate-text-datasets
+    category: "nlp"
