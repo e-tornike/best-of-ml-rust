@@ -533,3 +533,6 @@ projects:
   - name: deduplicate-text-datasets
     github_id: google-research/deduplicate-text-datasets
     category: "nlp"
+  - name: arrow-datafusion
+    github_id: apache/arrow-datafusion
+    category: "ml-frameworks"
