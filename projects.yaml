@@ -535,4 +535,7 @@ projects:
     category: "nlp"
   - name: arrow-datafusion
     github_id: apache/arrow-datafusion
-    category: "ml-frameworks"
+    category: "data-loading"
+  - name: arrow-rs
+    github_id: apache/arrow-rs
+    category: "data-loading"
