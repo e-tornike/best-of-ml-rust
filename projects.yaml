@@ -539,3 +539,6 @@ projects:
   - name: arrow-rs
     github_id: apache/arrow-rs
     category: "data-loading"
+  - name: hora
+    github_id: hora-search/hora
+    category: "ml-frameworks"
