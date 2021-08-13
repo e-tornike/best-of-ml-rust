@@ -546,3 +546,6 @@ projects:
     github_id: nbigaouette/onnxruntime-rs
     category: "ml-frameworks"
     labels: ["binding"]
+  - name: rust-hf-hub-loader
+    github_id: philschmid/rust-hf-hub-loader
+    category: "ml-frameworks"
