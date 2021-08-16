@@ -15,13 +15,13 @@
     <a href="https://github.com/e-tony/best-of-ml-rust/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/e-tony/best-of-ml-rust?color=green&label=updated"></a>
 </p>
 
-This curated list contains 160 awesome open-source projects with a total of 92K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/e-tony/best-of-ml-rust/issues/new/choose), submit a [pull request](https://github.com/e-tony/best-of-ml-rust/pulls), or directly edit the [projects.yaml](https://github.com/e-tony/best-of-ml-rust/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 160 awesome open-source projects with a total of 94K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/e-tony/best-of-ml-rust/issues/new/choose), submit a [pull request](https://github.com/e-tony/best-of-ml-rust/pulls), or directly edit the [projects.yaml](https://github.com/e-tony/best-of-ml-rust/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Machine Learning Frameworks](#machine-learning-frameworks) _79 projects_
+- [Machine Learning Frameworks](#machine-learning-frameworks) _80 projects_
 - [Text Data & NLP](#text-data--nlp) _52 projects_
 - [Image Data](#image-data) _10 projects_
 - [Data Loading & Extraction](#data-loading--extraction) _15 projects_
@@ -64,7 +64,7 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/apache/tvm">tvm</a></b> (🥇18 ·  ⭐ 7K) - Open deep learning compiler stack for cpu, gpu and specialized.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/apache/tvm) (👨‍💻 600 · 🔀 2K · 📥 680 · 📋 1.9K - 8% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/apache/tvm) (👨‍💻 610 · 🔀 2K · 📥 690 · 📋 1.9K - 9% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/apache/tvm
@@ -80,7 +80,7 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/statrs-dev/statrs">statrs</a></b> (🥇17 ·  ⭐ 260) - Statistical computation library for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/statrs-dev/statrs) (👨‍💻 21 · 🔀 35 · 📋 94 - 20% open · ⏱️ 13.07.2021):
+- [GitHub](https://github.com/statrs-dev/statrs) (👨‍💻 21 · 🔀 36 · 📋 95 - 21% open · ⏱️ 13.07.2021):
 
 	```
 	git clone https://github.com/boxtown/statrs
@@ -88,7 +88,7 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/tensorflow/rust">rust</a></b> (🥇16 ·  ⭐ 3.2K) - Rust language bindings for TensorFlow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tensorflow/rust) (👨‍💻 41 · 🔀 260 · 📋 140 - 24% open · ⏱️ 15.07.2021):
+- [GitHub](https://github.com/tensorflow/rust) (👨‍💻 41 · 🔀 260 · 📋 140 - 24% open · ⏱️ 15.08.2021):
 
 	```
 	git clone https://github.com/tensorflow/rust
@@ -96,13 +96,13 @@ _General-purpose machine learning and deep learning frameworks._
 </details>
 <details><summary><b><a href="https://github.com/granne/granne">granne</a></b> (🥇16 ·  ⭐ 250) - Graph-based Approximate Nearest Neighbor Search. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/granne/granne) (👨‍💻 6 · 🔀 23 · 📋 13 - 38% open · ⏱️ 19.05.2021):
+- [GitHub](https://github.com/granne/granne) (👨‍💻 6 · 🔀 23 · 📋 14 - 42% open · ⏱️ 19.05.2021):
 
 	```
 	git clone https://github.com/granne/granne
 	```
 </details>
-<details><summary><b><a href="https://github.com/PyO3/rust-numpy">rust-numpy</a></b> (🥇15 ·  ⭐ 490) - PyO3-based Rust binding of NumPy C-API. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/PyO3/rust-numpy">rust-numpy</a></b> (🥇15 ·  ⭐ 500) - PyO3-based Rust binding of NumPy C-API. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/PyO3/rust-numpy) (👨‍💻 30 · 🔀 64 · 📋 66 - 18% open · ⏱️ 15.07.2021):
 
@@ -134,12 +134,20 @@ _General-purpose machine learning and deep learning frameworks._
 	git clone https://github.com/raskr/rust-autograd
 	```
 </details>
-<details><summary><b><a href="https://github.com/Azure/azure-sdk-for-rust">azure-sdk-for-rust</a></b> (🥈11 ·  ⭐ 140) - This repository is for active development of the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Azure/azure-sdk-for-rust">azure-sdk-for-rust</a></b> (🥈12 ·  ⭐ 150 · 📈) - This repository is for active development of the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Azure/azure-sdk-for-rust) (👨‍💻 60 · 🔀 66 · 📋 150 - 42% open · ⏱️ 05.08.2021):
+- [GitHub](https://github.com/Azure/azure-sdk-for-rust) (👨‍💻 61 · 🔀 66 · 📋 150 - 43% open · ⏱️ 12.08.2021):
 
 	```
 	git clone https://github.com/Azure/azure-sdk-for-rust
+	```
+</details>
+<details><summary><b><a href="https://github.com/hora-search/hora">hora</a></b> (🥈11 ·  ⭐ 1.9K · 🐣) - efficient approximate nearest neighbor search algorithm collections.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hora-search/hora) (👨‍💻 4 · 🔀 25 · 📋 18 - 55% open · ⏱️ 12.08.2021):
+
+	```
+	git clone https://github.com/hora-search/hora
 	```
 </details>
 <details><summary><b><a href="https://github.com/smartcorelib/smartcore">smartcore</a></b> (🥉10 ·  ⭐ 170) - SmartCore is a comprehensive library for machine learning and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -150,7 +158,7 @@ _General-purpose machine learning and deep learning frameworks._
 	git clone https://github.com/smartcorelib/smartcore
 	```
 </details>
-<details><summary><b><a href="https://github.com/bilal2vec/L2">L2</a></b> (🥉10 ·  ⭐ 130) - l2 is a fast, Pytorch-style Tensor+Autograd library written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bilal2vec/L2">L2</a></b> (🥉10 ·  ⭐ 140) - l2 is a fast, Pytorch-style Tensor+Autograd library written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/bilal2vec/L2) (🔀 15 · ⏱️ 04.02.2021):
 
@@ -169,32 +177,31 @@ _General-purpose machine learning and deep learning frameworks._
 <details><summary>Show 65 hidden projects...</summary>
 
 - <b><a href="https://github.com/weld-project/weld">weld</a></b> (🥇16 ·  ⭐ 2.6K · 💀) - High-performance runtime for data analytics applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/rust-ml/linfa">linfa</a></b> (🥇15 ·  ⭐ 1.1K · 📈) - A Rust machine learning framework. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/rust-ml/linfa">linfa</a></b> (🥇15 ·  ⭐ 1.1K) - A Rust machine learning framework. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/sonos/tract">tract</a></b> (🥇15 ·  ⭐ 1K) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/substantic/rain">rain</a></b> (🥈14 ·  ⭐ 660 · 💀) - Framework for large distributed pipelines. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/maciejkula/rustlearn">rustlearn</a></b> (🥈14 ·  ⭐ 500 · 💀) - Machine learning crate for Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/Synerise/cleora">cleora</a></b> (🥈14 ·  ⭐ 330) - Cleora AI is a general-purpose model for efficient, scalable.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Synerise/cleora">cleora</a></b> (🥈14 ·  ⭐ 340) - Cleora AI is a general-purpose model for efficient, scalable.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/AtheMathmo/rusty-machine">rusty-machine</a></b> (🥈13 ·  ⭐ 1.2K · 💀) - Machine Learning library for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/LaurentMazare/tch-rs">tch-rs</a></b> (🥈13 ·  ⭐ 1.2K) - Rust bindings for the C++ api of PyTorch. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/spearow/juice">juice</a></b> (🥈13 ·  ⭐ 800) - The Hacker's Machine Learning Engine. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/autumnai/leaf">leaf</a></b> (🥈12 ·  ⭐ 5.5K · 💀) - Open Machine Intelligence Framework for Hackers. (GPU/CPU). <code>❗Unlicensed</code>
 - <b><a href="https://github.com/google/evcxr">evcxr</a></b> (🥈12 ·  ⭐ 2.6K) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/wsmoses/Enzyme">Enzyme</a></b> (🥈12 ·  ⭐ 510) - High-performance automatic differentiation of LLVM. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/wsmoses/Enzyme">Enzyme</a></b> (🥈12 ·  ⭐ 520) - High-performance automatic differentiation of LLVM. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/vbarrielle/sprs">sprs</a></b> (🥈12 ·  ⭐ 250) - sparse linear algebra library for rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/milesgranger/gap_statistic">gap_statistic</a></b> (🥈12 ·  ⭐ 110) - Dynamically get the suggested clusters in the data for.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Enet4/faiss-rs">faiss-rs</a></b> (🥈12 ·  ⭐ 46) - Rust language bindings for Faiss. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/milesgranger/pyrus-cramjam">pyrus-cramjam</a></b> (🥈12 ·  ⭐ 23) - Thin Python wrapper to de/compression algorithms in Rust -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/argmin-rs/argmin">argmin</a></b> (🥈11 ·  ⭐ 310) - Mathematical optimization in pure Rust. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/Axect/Peroxide">Peroxide</a></b> (🥈11 ·  ⭐ 230 · 📈) - Rust numeric library with R, MATLAB & Python syntax. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Axect/Peroxide">Peroxide</a></b> (🥈11 ·  ⭐ 230) - Rust numeric library with R, MATLAB & Python syntax. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/tspooner/rsrl">rsrl</a></b> (🥈11 ·  ⭐ 100 · 💀) - A fast, safe and easy to use reinforcement learning framework in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/MrRobb/gym-rs">gym-rs</a></b> (🥈11 ·  ⭐ 33 · 💀) - OpenAI Gym bindings for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/MrRobb/gym-rs">gym-rs</a></b> (🥈11 ·  ⭐ 34 · 💀) - OpenAI Gym bindings for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/milesgranger/black-jack">black-jack</a></b> (🥈11 ·  ⭐ 26) - DataFrame / Series data processing in Rust. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jackm321/RustNN">RustNN</a></b> (🥉10 ·  ⭐ 300 · 💀) - A neural network crate. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/tedsta/deeplearn-rs">deeplearn-rs</a></b> (🥉10 ·  ⭐ 190 · 💀) - Neural networks in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/torchrs/torchrs">torchrs</a></b> (🥉10 ·  ⭐ 75 · 💀) - Deep Learning in Rust with the PyTorch API. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/nbigaouette/onnxruntime-rs">onnxruntime-rs</a></b> (🥉10 ·  ⭐ 68 · ➕) - Rust wrapper for Microsoft's ONNX Runtime (version.. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/nbigaouette/onnxruntime-rs">onnxruntime-rs</a></b> (🥉10 ·  ⭐ 71) - Rust wrapper for Microsoft's ONNX Runtime (version.. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/ralfbiedert/ffsvm-rust">ffsvm-rust</a></b> (🥉10 ·  ⭐ 43 · 💀) - FFSVM stands for Really Fast Support Vector Machine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/hora-search/hora">hora</a></b> (🥉9 ·  ⭐ 550 · 🐣) - efficient approximate nearest neighbor search algorithm collections.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/neuronika/neuronika">neuronika</a></b> (🥉9 ·  ⭐ 440 · 🐣) - Tensors and dynamic neural networks in pure Rust. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
 - <b><a href="https://github.com/millardjn/alumina">alumina</a></b> (🥉9 ·  ⭐ 84) - A deep learning library for rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/bminixhofer/tractjs">tractjs</a></b> (🥉9 ·  ⭐ 55) - Run ONNX and TensorFlow inference in the browser. <code>❗Unlicensed</code>
@@ -206,7 +213,7 @@ _General-purpose machine learning and deep learning frameworks._
 - <b><a href="https://github.com/emakryo/rustdef">rustdef</a></b> (🥉9 ·  ⭐ 14) - Jupyter extension for rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mrhooray/kdtree-rs">kdtree-rs</a></b> (🥉8 ·  ⭐ 110) - K-dimensional tree in Rust for fast geospatial indexing and.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/jramapuram/hal">hal</a></b> (🥉8 ·  ⭐ 79 · 💀) - Rust based Cross-GPU Machine Learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/rust-cv/hnsw">hnsw</a></b> (🥉8 ·  ⭐ 66) - HNSW ANN from the paper Efficient and robust approximate nearest neighbor search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rust-cv/hnsw">hnsw</a></b> (🥉8 ·  ⭐ 67) - HNSW ANN from the paper Efficient and robust approximate nearest neighbor search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/diffeo/kodama">kodama</a></b> (🥉8 ·  ⭐ 52 · 💤) - Fast hierarchical agglomerative clustering in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/frjnn/bhtsne">bhtsne</a></b> (🥉8 ·  ⭐ 21) - Barnes-Hut t-SNE implementation written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/liborty/rstats">rstats</a></b> (🥉8 ·  ⭐ 2) - Rust Statistics and Vector Algebra Library. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -233,6 +240,7 @@ _General-purpose machine learning and deep learning frameworks._
 - <b><a href="https://github.com/c0dearm/mushin">mushin</a></b> (🥉5 ·  ⭐ 190 · 🐣) - Compile-time creation of neural networks. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/usamec/cntk-rs">cntk-rs</a></b> (🥉5 ·  ⭐ 20 · 💀) - Wrapper around Microsoft CNTK library. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/NivenT/REnforce">REnforce</a></b> (🥉5 ·  ⭐ 17 · 💀) - Reinforcement learning library written in Rust. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/philschmid/rust-hf-hub-loader">rust-hf-hub-loader</a></b> (🥉4 ·  ⭐ 2 · 🐣) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -244,15 +252,15 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 
 <details><summary><b><a href="https://github.com/huggingface/tokenizers">tokenizers</a></b> (🥇21 ·  ⭐ 4.7K) - Fast State-of-the-Art Tokenizers optimized for Research and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/huggingface/tokenizers) (👨‍💻 40 · 🔀 370 · 📦 35 · 📋 480 - 25% open · ⏱️ 21.07.2021):
+- [GitHub](https://github.com/huggingface/tokenizers) (👨‍💻 46 · 🔀 370 · 📦 36 · 📋 480 - 25% open · ⏱️ 13.08.2021):
 
 	```
 	git clone https://github.com/huggingface/tokenizers
 	```
 </details>
-<details><summary><b><a href="https://github.com/pemistahl/grex">grex</a></b> (🥇17 ·  ⭐ 4.2K) - A command-line tool and library for generating regular expressions from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pemistahl/grex">grex</a></b> (🥇17 ·  ⭐ 4.3K) - A command-line tool and library for generating regular expressions from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pemistahl/grex) (👨‍💻 5 · 🔀 95 · 📥 4.7K · 📋 34 - 17% open · ⏱️ 22.07.2021):
+- [GitHub](https://github.com/pemistahl/grex) (👨‍💻 5 · 🔀 95 · 📥 4.8K · 📋 34 - 14% open · ⏱️ 22.07.2021):
 
 	```
 	git clone https://github.com/pemistahl/grex
@@ -268,7 +276,7 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 </details>
 <details><summary><b><a href="https://github.com/guillaume-be/rust-bert">rust-bert</a></b> (🥇13 ·  ⭐ 670) - Rust native ready-to-use NLP pipelines and transformer-based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/guillaume-be/rust-bert) (👨‍💻 11 · 🔀 45 · 📋 54 - 18% open · ⏱️ 07.08.2021):
+- [GitHub](https://github.com/guillaume-be/rust-bert) (👨‍💻 11 · 🔀 47 · 📋 55 - 20% open · ⏱️ 07.08.2021):
 
 	```
 	git clone https://github.com/guillaume-be/rust-bert
@@ -292,7 +300,7 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 </details>
 <details><summary><b><a href="https://github.com/lindera-morphology/lindera">lindera</a></b> (🥇13 ·  ⭐ 110) - A morphological analysis library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lindera-morphology/lindera) (👨‍💻 7 · 🔀 13 · 📋 31 - 12% open · ⏱️ 08.08.2021):
+- [GitHub](https://github.com/lindera-morphology/lindera) (👨‍💻 7 · 🔀 13 · 📋 32 - 12% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/lindera-morphology/lindera
@@ -308,7 +316,7 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 </details>
 <details><summary><b><a href="https://github.com/fancy-regex/fancy-regex">fancy-regex</a></b> (🥈10 ·  ⭐ 220) - Rust library for regular expressions using fancy features like look-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fancy-regex/fancy-regex) (👨‍💻 16 · 🔀 16 · 📋 19 - 10% open · ⏱️ 29.07.2021):
+- [GitHub](https://github.com/fancy-regex/fancy-regex) (👨‍💻 16 · 🔀 17 · 📋 19 - 10% open · ⏱️ 13.08.2021):
 
 	```
 	git clone https://github.com/fancy-regex/fancy-regex
@@ -318,14 +326,14 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 
 - <b><a href="https://github.com/bminixhofer/nlprule">nlprule</a></b> (🥇14 ·  ⭐ 350) - A fast, low-resource Natural Language Processing and Text.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/snipsco/snips-nlu-rs">snips-nlu-rs</a></b> (🥇14 ·  ⭐ 320 · 💀) - Snips NLU rust implementation. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/BurntSushi/aho-corasick">aho-corasick</a></b> (🥈12 ·  ⭐ 470) - A fast implementation of Aho-Corasick in Rust. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/BurntSushi/aho-corasick">aho-corasick</a></b> (🥈12 ·  ⭐ 480) - A fast implementation of Aho-Corasick in Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/BurntSushi/memchr">memchr</a></b> (🥈12 ·  ⭐ 300) - Optimized string search routines for Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/snipsco/rustling">rustling</a></b> (🥈12 ·  ⭐ 65 · 💀) - Rust implementation of Duckling. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/christophertrml/rs-natural">rs-natural</a></b> (🥈11 ·  ⭐ 200 · 💀) - Natural Language Processing for Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/snipsco/rustling-ontology">rustling-ontology</a></b> (🥈11 ·  ⭐ 110 · 💤) - Ontology for rustling. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/snipsco/snips-nlu-ontology">snips-nlu-ontology</a></b> (🥈11 ·  ⭐ 55 · 💀) - Ontology of Snips NLU. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/finalfusion/finalfusion-rust">finalfusion-rust</a></b> (🥈11 ·  ⭐ 38) - finalfusion embeddings in Rust. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/guillaume-be/rust-tokenizers">rust-tokenizers</a></b> (🥈10 ·  ⭐ 94) - Rust-tokenizer offers high-performance tokenizers for modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/guillaume-be/rust-tokenizers">rust-tokenizers</a></b> (🥈10 ·  ⭐ 96) - Rust-tokenizer offers high-performance tokenizers for modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/finalfusion/finalfrontier">finalfrontier</a></b> (🥈10 ·  ⭐ 64) - Context-sensitive word embeddings with subwords. In Rust. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/proycon/deepfrog">deepfrog</a></b> (🥈10 ·  ⭐ 15) - An NLP-suite powered by deep learning. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/rth/vtext">vtext</a></b> (🥉9 ·  ⭐ 120 · 💀) - Simple NLP in Rust with Python bindings. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -335,7 +343,7 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 - <b><a href="https://github.com/cpcdoy/rust-sbert">rust-sbert</a></b> (🥉9 ·  ⭐ 20 · 💤) - Rust port of sentence-transformers.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/snipsco/gazetteer-entity-parser">gazetteer-entity-parser</a></b> (🥉9 ·  ⭐ 14 · 💀) - Rust library for parsing and resolving entity values.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/snipsco/snips-nlu-parsers">snips-nlu-parsers</a></b> (🥉9 ·  ⭐ 12 · 💀) - Rust crate for entity parsing. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/messense/fasttext-rs">fasttext-rs</a></b> (🥉8 ·  ⭐ 30) - fastText Rust binding. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/messense/fasttext-rs">fasttext-rs</a></b> (🥉8 ·  ⭐ 31) - fastText Rust binding. <code>❗Unlicensed</code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/stickeritis/sticker">sticker</a></b> (🥉8 ·  ⭐ 26) - Succeeded by SyntaxDot: https://github.com/tensordot/syntaxdot. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/pemistahl/chr">chr</a></b> (🥉8 ·  ⭐ 24 · 💤) - A command-line tool that gives information about Unicode characters. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/DimaKudosh/word2vec">word2vec</a></b> (🥉8 ·  ⭐ 20 · 💀) - Rust interface to word2vec. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -355,7 +363,7 @@ _Libraries for processing, cleaning, manipulating, and analyzing text data as we
 - <b><a href="https://github.com/allenai/rustberta-snli">rustberta-snli</a></b> (🥉5 ·  ⭐ 12 · 💤) - A Rust implementation of a RoBERTa classification.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/danieldk/seqalign">seqalign</a></b> (🥉5 ·  ⭐ 1) - Sequence alignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/danieldk/ohnomore">ohnomore</a></b> (🥉5) - Explorations in lemmatization. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/ferristseng/rust-tfidf">rust-tfidf</a></b> (🥉4 ·  ⭐ 9) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ferristseng/rust-tfidf">rust-tfidf</a></b> (🥉4 ·  ⭐ 10) -  <code>❗Unlicensed</code>
 - <b><a href="https://github.com/danieldk/wordpieces">wordpieces</a></b> (🥉4 ·  ⭐ 1) - Split tokens into word pieces. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Aleph-Alpha/aleph-alpha-tokenizer">aleph-alpha-tokenizer</a></b> (🥉3 ·  ⭐ 5 · 💀) - A rustic language tokenizer library inspired by.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/andrew-johnson-4/misspeller">misspeller</a></b> (🥉3 · 💤) - Take correctly spelled words and return common spelling mistakes. <code>❗Unlicensed</code>
@@ -370,15 +378,15 @@ _Libraries for image & video processing, manipulation, and augmentation as well 
 
 <details><summary><b><a href="https://github.com/rustgd/cgmath">cgmath</a></b> (🥇15 ·  ⭐ 830) - A linear algebra and mathematics library for computer graphics. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rustgd/cgmath) (👨‍💻 95 · 🔀 140 · 📋 170 - 30% open · ⏱️ 06.07.2021):
+- [GitHub](https://github.com/rustgd/cgmath) (👨‍💻 95 · 🔀 140 · 📋 170 - 30% open · ⏱️ 11.08.2021):
 
 	```
 	git clone https://github.com/rustgd/cgmath
 	```
 </details>
-<details><summary><b><a href="https://github.com/twistedfall/opencv-rust">opencv-rust</a></b> (🥈14 ·  ⭐ 710) - Rust bindings for OpenCV 3 & 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/twistedfall/opencv-rust">opencv-rust</a></b> (🥈14 ·  ⭐ 720) - Rust bindings for OpenCV 3 & 4. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="🎁" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/twistedfall/opencv-rust) (👨‍💻 29 · 🔀 68 · 📋 200 - 6% open · ⏱️ 09.07.2021):
+- [GitHub](https://github.com/twistedfall/opencv-rust) (👨‍💻 29 · 🔀 68 · 📋 200 - 7% open · ⏱️ 09.07.2021):
 
 	```
 	git clone https://github.com/twistedfall/opencv-rust
@@ -410,9 +418,9 @@ _Libraries for image & video processing, manipulation, and augmentation as well 
 
 _Libraries for loading, collecting, and extracting data from a variety of data sources and formats._
 
-<details><summary><b><a href="https://github.com/apache/arrow">arrow</a></b> (🥇24 ·  ⭐ 8.2K) - Apache Arrow is a multi-language toolbox for accelerated data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/arrow">arrow</a></b> (🥇24 ·  ⭐ 8.3K) - Apache Arrow is a multi-language toolbox for accelerated data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/arrow) (👨‍💻 710 · 🔀 1.9K · 📦 50 · 📋 630 - 0% open · ⏱️ 08.08.2021):
+- [GitHub](https://github.com/apache/arrow) (👨‍💻 720 · 🔀 1.9K · 📦 50 · 📋 630 - 0% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/apache/arrow
@@ -420,47 +428,47 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 </details>
 <details><summary><b><a href="https://github.com/timberio/vector">vector</a></b> (🥇24 ·  ⭐ 7.8K) - A high-performance, highly reliable, observability data pipeline. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/timberio/vector) (👨‍💻 160 · 🔀 560 · 📥 56K · 📋 4K - 35% open · ⏱️ 06.08.2021):
+- [GitHub](https://github.com/timberio/vector) (👨‍💻 160 · 🔀 570 · 📥 60K · 📋 4.1K - 35% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/timberio/vector
 	```
 </details>
-<details><summary><b><a href="https://github.com/datafuselabs/datafuse">datafuse</a></b> (🥈18 ·  ⭐ 1.7K · 📈) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/datafuselabs/datafuse">datafuse</a></b> (🥈19 ·  ⭐ 1.8K · 📈) - An elastic and scalable Cloud Warehouse, offers Blazing Fast.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/datafuselabs/datafuse) (👨‍💻 40 · 🔀 140 · 📥 760 · 📋 520 - 31% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/datafuselabs/datafuse) (👨‍💻 43 · 🔀 150 · 📥 910 · 📋 560 - 32% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/datafuselabs/datafuse
 	```
 </details>
-<details><summary><b><a href="https://github.com/pola-rs/polars">polars</a></b> (🥈17 ·  ⭐ 2.1K) - Fast multi-threaded DataFrame library in Rust and Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pola-rs/polars">polars</a></b> (🥈17 ·  ⭐ 2.2K) - Fast multi-threaded DataFrame library in Rust and Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pola-rs/polars) (👨‍💻 34 · 🔀 120 · 📦 4 · 📋 460 - 11% open · ⏱️ 06.08.2021):
+- [GitHub](https://github.com/pola-rs/polars) (👨‍💻 34 · 🔀 120 · 📦 4 · 📋 470 - 10% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/ritchie46/polars
 	```
 </details>
-<details><summary><b><a href="https://github.com/getsynth/synth">synth</a></b> (🥈17 ·  ⭐ 490 · 📈) - The Declarative Data Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/getsynth/synth">synth</a></b> (🥈17 ·  ⭐ 500) - The Declarative Data Generator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/getsynth/synth) (👨‍💻 16 · 🔀 35 · 📥 820 · 📋 32 - 50% open · ⏱️ 05.08.2021):
+- [GitHub](https://github.com/getsynth/synth) (👨‍💻 16 · 🔀 34 · 📥 840 · 📋 32 - 50% open · ⏱️ 14.08.2021):
 
 	```
 	git clone https://github.com/openquery-io/synth
 	```
 </details>
-<details><summary><b><a href="https://github.com/apache/arrow-datafusion">arrow-datafusion</a></b> (🥈15 ·  ⭐ 780 · 🐣) - Apache Arrow DataFusion and Ballista query engines. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/arrow-datafusion">arrow-datafusion</a></b> (🥈15 ·  ⭐ 800 · 🐣) - Apache Arrow DataFusion and Ballista query engines. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/arrow-datafusion) (👨‍💻 240 · 🔀 110 · 📋 470 - 49% open · ⏱️ 08.08.2021):
+- [GitHub](https://github.com/apache/arrow-datafusion) (👨‍💻 240 · 🔀 110 · 📋 500 - 49% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/apache/arrow-datafusion
 	```
 </details>
-<details><summary><b><a href="https://github.com/apache/arrow-rs">arrow-rs</a></b> (🥈15 ·  ⭐ 490 · 🐣) - Official Rust implementation of Apache Arrow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/arrow-rs">arrow-rs</a></b> (🥈15 ·  ⭐ 500 · 🐣) - Official Rust implementation of Apache Arrow. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/arrow-rs) (👨‍💻 260 · 🔀 96 · 📋 370 - 58% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/apache/arrow-rs) (👨‍💻 260 · 🔀 98 · 📋 380 - 58% open · ⏱️ 15.08.2021):
 
 	```
 	git clone https://github.com/apache/arrow-rs
@@ -492,9 +500,9 @@ _Libraries for loading, collecting, and extracting data from a variety of data s
 
 _Libraries for graph processing, clustering, embedding, and machine learning tasks._
 
-<details><summary><b><a href="https://github.com/alibaba/GraphScope">GraphScope</a></b> (🥈14 ·  ⭐ 880) - GraphScope: A One-Stop Large-Scale Graph Computing System from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/alibaba/GraphScope">GraphScope</a></b> (🥈14 ·  ⭐ 900) - GraphScope: A One-Stop Large-Scale Graph Computing System from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alibaba/GraphScope) (👨‍💻 18 · 🔀 97 · 📋 250 - 32% open · ⏱️ 09.08.2021):
+- [GitHub](https://github.com/alibaba/GraphScope) (👨‍💻 18 · 🔀 97 · 📋 260 - 30% open · ⏱️ 16.08.2021):
 
 	```
 	git clone https://github.com/alibaba/GraphScope
