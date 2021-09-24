@@ -549,3 +549,6 @@ projects:
   - name: rust-hf-hub-loader
     github_id: philschmid/rust-hf-hub-loader
     category: "ml-frameworks"
+  - name: ungoliant
+    github_id: oscar-corpus/ungoliant
+    category: "nlp"
