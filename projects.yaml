@@ -24,6 +24,9 @@ categories:
   - category: "mlops"
     title: "MLOps"
     subtitle: "Libraries to design workflows, deploy, test, and maintain machine learning pipelines."
+  - category: "apps"
+    title: "Applications"
+    subtitle: "ML, NLP, or relevant applications."
 
 labels:
   - label: "binding"
@@ -552,3 +555,36 @@ projects:
   - name: ungoliant
     github_id: oscar-corpus/ungoliant
     category: "nlp"
+  - name: weggli
+    github_id: googleprojectzero/weggli
+    category: "apps"
+  - name: hora-hora
+    github_id: hora-search/hora
+    category: "apps"
+  - name: quickwit
+    github_id: quickwit-inc/quickwit
+    category: "apps"
+  - name: qdrant
+    github_id: qdrant/qdrant
+    category: "apps"
+  - name: sonic
+    github_id: valeriansaliou/sonic
+    category: "apps"
+  - name: bayard
+    github_id: bayard-search/bayard
+    category: "apps"
+  - name: tantivy
+    github_id: tantivy-search/tantivy
+    category: "apps"
+  - name: Toshi
+    github_id: toshi-search/Toshi
+    category: "apps"
+  - name: milli
+    github_id: meilisearch/milli
+    category: "apps"
+  - name: MeiliSearch
+    github_id: meilisearch/MeiliSearch
+    category: "apps"
+  - name: zombodb
+    github_id: zombodb/zombodb
+    category: "apps"
