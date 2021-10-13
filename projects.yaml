@@ -588,3 +588,6 @@ projects:
   - name: zombodb
     github_id: zombodb/zombodb
     category: "apps"
+  - name: flaco
+    github_id: milesgranger/flaco
+    category: "data-loading"
