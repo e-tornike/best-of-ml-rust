@@ -591,3 +591,6 @@ projects:
   - name: flaco
     github_id: milesgranger/flaco
     category: "data-loading"
+  - name: quickwit
+    github_id: quickwit-inc/quickwit
+    category: "apps"
