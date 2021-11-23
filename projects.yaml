@@ -27,6 +27,9 @@ categories:
   - category: "apps"
     title: "Applications"
     subtitle: "ML, NLP, or relevant applications."
+  - category: "other"
+    title: "Other"
+    subtitle: "Other libraries useful for ML."
 
 labels:
   - label: "binding"
@@ -594,3 +597,6 @@ projects:
   - name: quickwit
     github_id: quickwit-inc/quickwit
     category: "apps"
+  - name: Rust-CUDA
+    github_id: RDambrosio016/Rust-CUDA
+    category: "other"
