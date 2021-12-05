@@ -600,3 +600,7 @@ projects:
   - name: Rust-CUDA
     github_id: RDambrosio016/Rust-CUDA
     category: "other"
+  - name: erdos
+    github_id: erdos-project/erdos
+    category: "apps"
+    
