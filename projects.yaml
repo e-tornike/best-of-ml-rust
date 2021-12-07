@@ -603,4 +603,6 @@ projects:
   - name: erdos
     github_id: erdos-project/erdos
     category: "apps"
-    
+  - name: sudachi.rs
+    github_id: WorksApplications/sudachi.rs
+    category: "nlp"
