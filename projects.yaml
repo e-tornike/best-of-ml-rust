@@ -27,6 +27,9 @@ categories:
   - category: "apps"
     title: "Applications"
     subtitle: "ML, NLP, or relevant applications."
+  - category: "analysis"
+    title: "Analysis"
+    subtitle: "Libraries for analyzing data."
   - category: "other"
     title: "Other"
     subtitle: "Other libraries useful for ML."
@@ -606,3 +609,6 @@ projects:
   - name: sudachi.rs
     github_id: WorksApplications/sudachi.rs
     category: "nlp"
+  - name: vega
+    github_id: rajasekarv/vega
+    category: "analysis"
