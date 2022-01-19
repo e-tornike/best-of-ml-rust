@@ -612,3 +612,6 @@ projects:
   - name: vega
     github_id: rajasekarv/vega
     category: "analysis"
+  - name: lnx
+    github_id: lnx-search/lnx
+    category: "apps"
