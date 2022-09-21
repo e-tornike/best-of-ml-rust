@@ -615,3 +615,6 @@ projects:
   - name: lnx
     github_id: lnx-search/lnx
     category: "apps"
+  - name: propagon
+    github_id: Refefer/propagon
+    category: "graph"
