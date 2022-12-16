@@ -618,3 +618,6 @@ projects:
   - name: propagon
     github_id: Refefer/propagon
     category: "graph"
+  - name: tiktoken
+    github_id: openai/tiktoken
+    category: "nlp"
