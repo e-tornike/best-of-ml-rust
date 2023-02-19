@@ -11,7 +11,7 @@ categories:
     subtitle: "Libraries for processing, cleaning, manipulating, and analyzing text data as well as for diverse NLP tasks."
   - category: "image"
     title: "Image Data"
-    subtitle: "Libraries for image & video processing, manipulation, and augmentation as well as libraries for computer vision."
+    subtitle: "Libraries for image & video processing, manipulation, augmentation, and visualization as well as libraries for computer vision."
   - category: "data-loading"
     title: "Data Loading & Extraction"
     subtitle: "Libraries for loading, collecting, and extracting data from a variety of data sources and formats."
