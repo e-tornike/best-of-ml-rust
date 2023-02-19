@@ -621,3 +621,6 @@ projects:
   - name: tiktoken
     github_id: openai/tiktoken
     category: "nlp"
+  - name: rerun
+    github_id: rerun-io/rerun
+    category: "image"
