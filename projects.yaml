@@ -624,3 +624,6 @@ projects:
   - name: rerun
     github_id: rerun-io/rerun
     category: "image"
+  - name: lance
+    github_id: eto-ai/lance
+    category: "data-loading"
