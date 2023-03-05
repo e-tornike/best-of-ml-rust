@@ -627,3 +627,6 @@ projects:
   - name: lance
     github_id: eto-ai/lance
     category: "data-loading"
+  - name: voy
+    github_id: tantaraio/voy
+    category: "apps"
