@@ -630,3 +630,6 @@ projects:
   - name: voy
     github_id: tantaraio/voy
     category: "apps"
+  - name: zkml
+    github_id: ddkang/zkml
+    category: "other"
