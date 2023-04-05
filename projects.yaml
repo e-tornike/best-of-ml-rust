@@ -633,3 +633,9 @@ projects:
   - name: zkml
     github_id: ddkang/zkml
     category: "other"
+  - name: llama-rs
+    github_id: rustformers/llama-rs
+    category: "nlp"
+  - name: llamacord
+    github_id: rustformers/llamacord
+    category: "apps"
