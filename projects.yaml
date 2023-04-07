@@ -639,3 +639,6 @@ projects:
   - name: llamacord
     github_id: rustformers/llamacord
     category: "apps"
+  - name: rllama
+    github_id: Noeda/rllama
+    category: "nlp"
