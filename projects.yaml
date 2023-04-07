@@ -642,3 +642,12 @@ projects:
   - name: rllama
     github_id: Noeda/rllama
     category: "nlp"
+  - name: ChatGPT
+    github_id: lencx/ChatGPT
+    category: "apps"
+  - name: chat-ai-desktop
+    github_id: sonnylazuardi/chat-ai-desktop
+    category: "apps"
+  - name: opentau
+    github_id: GammaTauAI/opentau
+    category: "apps"
