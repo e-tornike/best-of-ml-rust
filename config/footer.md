@@ -3,6 +3,7 @@
 
 ## Related Resources
 
+- [**Awesome-Rust-MachineLearning**](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning): This repository is a list of machine learning libraries written in Rust.
 - [**best-of-ml-python**](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries.
 - [**best-of-ml-julia**](https://github.com/e-tony/best-of-ml-julia): A ranked list of awesome machine learning Julia libraries.
 
