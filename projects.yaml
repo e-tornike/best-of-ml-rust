@@ -651,3 +651,6 @@ projects:
   - name: opentau
     github_id: GammaTauAI/opentau
     category: "apps"
+  - name: mosec
+    github_id: mosecorg/mosec
+    category: "mlops"
