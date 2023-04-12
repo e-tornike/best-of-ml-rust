@@ -654,3 +654,9 @@ projects:
   - name: mosec
     github_id: mosecorg/mosec
     category: "mlops"
+  - name: delta-rs
+    github_id: delta-io/delta-rs
+    category: "data-loading"
+  - name: kafka-delta-ingest
+    github_id: delta-io/kafka-delta-ingest
+    category: "data-loading"
