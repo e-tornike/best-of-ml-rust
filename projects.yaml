@@ -660,3 +660,6 @@ projects:
   - name: kafka-delta-ingest
     github_id: delta-io/kafka-delta-ingest
     category: "data-loading"
+  - name: arroyo
+    github_id: ArroyoSystems/arroyo
+    category: "data-loading"
