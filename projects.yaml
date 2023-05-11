@@ -663,3 +663,6 @@ projects:
   - name: arroyo
     github_id: ArroyoSystems/arroyo
     category: "data-loading"
+  - name: redb
+    github_id: cberner/redb
+    category: "data-loading"
