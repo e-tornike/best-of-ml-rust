@@ -666,3 +666,6 @@ projects:
   - name: redb
     github_id: cberner/redb
     category: "data-loading"
+  - name: rsnltk
+    github_id: dhchenx/rsnltk
+    category: "nlp"
