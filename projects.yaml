@@ -669,3 +669,6 @@ projects:
   - name: rsnltk
     github_id: dhchenx/rsnltk
     category: "nlp"
+  - name: bloop
+    github_id: BloopAI/bloop
+    category: "apps"
