@@ -672,3 +672,6 @@ projects:
   - name: bloop
     github_id: BloopAI/bloop
     category: "apps"
+  - name: burn
+    github_id: burn-rs/burn
+    category: "ml-frameworks"
