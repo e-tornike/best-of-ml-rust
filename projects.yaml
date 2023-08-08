@@ -675,3 +675,6 @@ projects:
   - name: burn
     github_id: burn-rs/burn
     category: "ml-frameworks"
+  - name: candle
+    github_id: huggingface/candle
+    category: "ml-frameworks"
