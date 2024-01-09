@@ -678,3 +678,6 @@ projects:
   - name: candle
     github_id: huggingface/candle
     category: "ml-frameworks"
+  - name: Raphtory
+    github_id: Pometry/Raphtory
+    category: "graph"
