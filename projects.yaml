@@ -681,3 +681,6 @@ projects:
   - name: Raphtory
     github_id: Pometry/Raphtory
     category: "graph"
+  - name: oxidized-transformers
+    github_id: oxidized-transformers/oxidized-transformers
+    category: "nlp"
