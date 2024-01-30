@@ -687,3 +687,6 @@ projects:
   - name: Raphtory
     github_id: Pometry/Raphtory
     category: "graph"
+  - name: dfdx
+    github_id: coreylowman/dfdx
+    category: "ml-frameworks"
