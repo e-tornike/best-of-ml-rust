@@ -690,3 +690,9 @@ projects:
   - name: dfdx
     github_id: coreylowman/dfdx
     category: "ml-frameworks"
+  - name: ollama-rs
+    github_id: pepperoni21/ollama-rs
+    category: "nlp"
+  - name: ollama-rag-rs
+    github_id: SimonCW/ollama-rag-rs
+    category: "nlp"
