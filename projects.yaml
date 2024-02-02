@@ -696,3 +696,6 @@ projects:
   - name: ollama-rag-rs
     github_id: SimonCW/ollama-rag-rs
     category: "nlp"
+  - name: text-splitter
+    github_id: benbrandt/text-splitter
+    category: "nlp"
