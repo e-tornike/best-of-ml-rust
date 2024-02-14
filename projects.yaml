@@ -699,3 +699,6 @@ projects:
   - name: text-splitter
     github_id: benbrandt/text-splitter
     category: "nlp"
+  - name: aici
+    github_id: microsoft/aici
+    category: "nlp"
