@@ -702,3 +702,6 @@ projects:
   - name: aici
     github_id: microsoft/aici
     category: "nlp"
+  - name: oxidized-transformers
+    github_id: oxidized-transformers/oxidized-transformers
+    category: "nlp"
