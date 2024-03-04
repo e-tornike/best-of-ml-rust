@@ -705,3 +705,6 @@ projects:
   - name: oxidized-transformers
     github_id: oxidized-transformers/oxidized-transformers
     category: "nlp"
+  - name: Oxen
+    github_id: Oxen-AI/Oxen
+    category: "data"
