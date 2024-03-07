@@ -708,3 +708,6 @@ projects:
   - name: Oxen
     github_id: Oxen-AI/Oxen
     category: "data"
+  - name: LlamaEdge
+    github_id: LlamaEdge/LlamaEdge
+    category: "apps"
