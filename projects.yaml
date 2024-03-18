@@ -711,3 +711,6 @@ projects:
   - name: LlamaEdge
     github_id: LlamaEdge/LlamaEdge
     category: "apps"
+  - name: aici
+    github_id: microsoft/aici
+    category: "nlp"
