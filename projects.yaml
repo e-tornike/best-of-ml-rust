@@ -717,3 +717,6 @@ projects:
   - name: kornia-rs
     github_id: kornia/kornia-rs
     category: "image"
+  - name: unda
+    github_id: unda-ai/unda
+    category: "ml-frameworks"
