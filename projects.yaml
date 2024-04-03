@@ -714,3 +714,6 @@ projects:
   - name: aici
     github_id: microsoft/aici
     category: "nlp"
+  - name: kornia-rs
+    github_id: kornia/kornia-rs
+    category: "image"
