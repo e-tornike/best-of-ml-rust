@@ -720,3 +720,6 @@ projects:
   - name: unda
     github_id: unda-ai/unda
     category: "ml-frameworks"
+  - name: luminal
+    github_id: jafioti/luminal
+    category: "ml-frameworks"
