@@ -723,3 +723,6 @@ projects:
   - name: luminal
     github_id: jafioti/luminal
     category: "ml-frameworks"
+  - name: ratchet
+    github_id: huggingface/ratchet
+    category: "ml-frameworks"
