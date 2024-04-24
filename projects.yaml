@@ -726,3 +726,6 @@ projects:
   - name: ratchet
     github_id: huggingface/ratchet
     category: "ml-frameworks"
+  - name: RustQuant
+    github_id: avhz/RustQuant
+    category: "apps"
