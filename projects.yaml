@@ -729,3 +729,6 @@ projects:
   - name: RustQuant
     github_id: avhz/RustQuant
     category: "apps"
+  - name: mistral.rs
+    github_id: EricLBuehler/mistral.rs
+    category: "ml-frameworks"
