@@ -735,3 +735,6 @@ projects:
   - name: lsp-ai
     github_id: SilasMarvin/lsp-ai
     category: "apps"
+  - name: nerve
+    github_id: evilsocket/nerve
+    category: "apps"
