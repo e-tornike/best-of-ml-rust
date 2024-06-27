@@ -738,3 +738,6 @@ projects:
   - name: nerve
     github_id: evilsocket/nerve
     category: "apps"
+  - name: tokengrams
+    github_id: EleutherAI/tokengrams
+    category: "nlp"
