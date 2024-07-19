@@ -741,3 +741,6 @@ projects:
   - name: tokengrams
     github_id: EleutherAI/tokengrams
     category: "nlp"
+  - name: rten
+    github_id: robertknight/rten
+    category: "ml-frameworks"
