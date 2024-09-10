@@ -744,3 +744,9 @@ projects:
   - name: rten
     github_id: robertknight/rten
     category: "ml-frameworks"
+  - name: sail
+    github_id: lakehq/sail
+    category: "data"
+  - name: tensorzero
+    github_id: tensorzero/tensorzero
+    category: "data"
