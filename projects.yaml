@@ -747,6 +747,6 @@ projects:
   - name: sail
     github_id: lakehq/sail
     category: "data"
-  - name: tensorzero
+  - name: TensorZero
     github_id: tensorzero/tensorzero
-    category: "data"
+    category: "mlops"
