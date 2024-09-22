@@ -750,3 +750,6 @@ projects:
   - name: TensorZero
     github_id: tensorzero/tensorzero
     category: "mlops"
+  - name: extractous
+    github_id: yobix-ai/extractous
+    category: "data"
