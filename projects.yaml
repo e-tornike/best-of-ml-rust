@@ -753,3 +753,6 @@ projects:
   - name: extractous
     github_id: yobix-ai/extractous
     category: "data"
+  - name: screenpipe
+    github_id: mediar-ai/screenpipe
+    category: "apps"
