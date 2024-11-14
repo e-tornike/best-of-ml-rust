@@ -756,3 +756,6 @@ projects:
   - name: screenpipe
     github_id: mediar-ai/screenpipe
     category: "apps"
+  - name: outlines-core
+    github_id: dottxt-ai/outlines-core
+    category: "nlp"
