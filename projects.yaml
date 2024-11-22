@@ -762,3 +762,12 @@ projects:
   - name: screenpipe
     github_id: mediar-ai/screenpipe
     category: "apps"
+  - name: candle-vllm
+    github_id: EricLBuehler/candle-vllm
+    category: "mlops"
+  - name: candle-lora
+    github_id: ricLBuehler/candle-lora
+    category: "ml-frameworks"
+  - name: dora
+    github_id: dora-rs/dora
+    category: "mlops"
