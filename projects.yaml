@@ -707,7 +707,7 @@ projects:
     category: "nlp"
   - name: Oxen
     github_id: Oxen-AI/Oxen
-    category: "data"
+    category: "data-loading"
   - name: LlamaEdge
     github_id: LlamaEdge/LlamaEdge
     category: "apps"
@@ -746,13 +746,13 @@ projects:
     category: "ml-frameworks"
   - name: sail
     github_id: lakehq/sail
-    category: "data"
+    category: "data-loading"
   - name: TensorZero
     github_id: tensorzero/tensorzero
     category: "mlops"
   - name: extractous
     github_id: yobix-ai/extractous
-    category: "data"
+    category: "data-loading"
   - name: screenpipe
     github_id: mediar-ai/screenpipe
     category: "apps"
