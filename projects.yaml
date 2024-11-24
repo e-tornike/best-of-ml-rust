@@ -771,3 +771,6 @@ projects:
   - name: dora
     github_id: dora-rs/dora
     category: "mlops"
+  - name: lancedb
+    github_id: lancedb/lancedb
+    category: "apps"
