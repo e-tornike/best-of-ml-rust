@@ -773,4 +773,7 @@ projects:
     category: "mlops"
   - name: lancedb
     github_id: lancedb/lancedb
+    category: "mlops"
+  - name: tabby
+    github_id: TabbyML/tabby
     category: "apps"
