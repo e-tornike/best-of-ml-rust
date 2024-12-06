@@ -759,9 +759,6 @@ projects:
   - name: outlines-core
     github_id: dottxt-ai/outlines-core
     category: "nlp"
-  - name: screenpipe
-    github_id: mediar-ai/screenpipe
-    category: "apps"
   - name: candle-vllm
     github_id: EricLBuehler/candle-vllm
     category: "mlops"
@@ -777,3 +774,6 @@ projects:
   - name: tabby
     github_id: TabbyML/tabby
     category: "apps"
+  - name: pgvectorscale
+    github_id: timescale/pgvectorscale
+    category: "ml-frameworks"
