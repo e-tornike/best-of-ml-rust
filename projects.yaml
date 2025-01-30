@@ -780,3 +780,6 @@ projects:
   - name: trieve
     github_id: devflowinc/trieve
     category: "apps"
+  - name: goose
+    github_id: block/goose
+    category: "apps"
