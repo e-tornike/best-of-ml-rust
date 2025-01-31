@@ -783,3 +783,6 @@ projects:
   - name: goose
     github_id: block/goose
     category: "apps"
+  - name: extractous
+    github_id: yobix-ai/extractous
+    category: "nlp"
