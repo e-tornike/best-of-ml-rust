@@ -786,3 +786,9 @@ projects:
   - name: extractous
     github_id: yobix-ai/extractous
     category: "nlp"
+  - name: kwaak
+    github_id: bosun-ai/kwaak
+    category: "apps"
+  - name: swiftide
+    github_id: bosun-ai/swiftide
+    category: "mlops"
