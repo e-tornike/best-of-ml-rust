@@ -792,3 +792,6 @@ projects:
   - name: swiftide
     github_id: bosun-ai/swiftide
     category: "mlops"
+  - name: chunkr
+    github_id: lumina-ai-inc/chunkr
+    category: "nlp"
