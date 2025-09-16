@@ -798,3 +798,6 @@ projects:
   - name: RustGPT
     github_id: tekaratzas/RustGPT
     category: "nlp"
+  - name: shimmy
+    github_id: Michael-A-Kuykendall/shimmy
+    category: "ml-frameworks"
