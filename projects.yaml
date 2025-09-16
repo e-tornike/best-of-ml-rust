@@ -795,3 +795,6 @@ projects:
   - name: chunkr
     github_id: lumina-ai-inc/chunkr
     category: "nlp"
+  - name: RustGPT
+    github_id: tekaratzas/RustGPT
+    category: "nlp"
