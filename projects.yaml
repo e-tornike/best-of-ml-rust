@@ -801,3 +801,6 @@ projects:
   - name: shimmy
     github_id: Michael-A-Kuykendall/shimmy
     category: "ml-frameworks"
+  - name: rig
+    github_id: 0xPlaygrounds/rig
+    category: "ml-frameworks"
