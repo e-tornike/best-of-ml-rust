@@ -804,3 +804,6 @@ projects:
   - name: rig
     github_id: 0xPlaygrounds/rig
     category: "ml-frameworks"
+  - name: voicetypr
+    github_id: moinulmoin/voicetypr
+    category: "ml-frameworks"
