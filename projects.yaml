@@ -807,3 +807,8 @@ projects:
   - name: voicetypr
     github_id: moinulmoin/voicetypr
     category: "ml-frameworks"
+  - name: NEURAX
+    github_id: rustnew/NEURAX
+    category: "ml-frameworks"
+    description: Analytical compiler for neural network architectures. Predicts training cost, memory, and performance before training (<50ms, zero GPU). MLIR/LLVM 18 backend.
+
