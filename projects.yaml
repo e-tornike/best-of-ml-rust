@@ -807,6 +807,9 @@ projects:
   - name: voicetypr
     github_id: moinulmoin/voicetypr
     category: "ml-frameworks"
+  - name: NEURAX
+    github_id: rustnew/NEURAX
+    category: "ml-frameworks"
   - name: Higgs
     github_id: panbanda/higgs
     category: "apps"
