@@ -813,3 +813,6 @@ projects:
   - name: Higgs
     github_id: panbanda/higgs
     category: "apps"
+  - name: tease
+    github_id: cmccomb/tease
+    category: "apps"
