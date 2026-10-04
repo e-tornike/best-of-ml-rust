@@ -813,3 +813,6 @@ projects:
   - name: Higgs
     github_id: panbanda/higgs
     category: "apps"
+  - name: automl
+    github_id: cmccomb/rust-automl
+    category: "ml-frameworks"
